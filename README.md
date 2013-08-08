@@ -1,1 +1,1 @@
-Simple include the DocusignEntity and DocusignLib into your web projects as references and call the methods from DocusignMethods from DocusignLib.Please refer to the sample application attached for further reference.
+Simply Add the DocusignEntity and DocusignLib project into your web projects and then include reference to them and call the methods from DocusignMethods from DocusignLib.Please refer to the sample application attached for further reference.
