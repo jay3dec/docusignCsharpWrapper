@@ -1,0 +1,14 @@
+c:\users\jay\documents\visual studio 2010\Projects\DocuSignApp\DocusignLib\bin\Debug\DocusignLib.dll
+c:\users\jay\documents\visual studio 2010\Projects\DocuSignApp\DocusignLib\bin\Debug\DocusignLib.pdb
+c:\users\jay\documents\visual studio 2010\Projects\DocuSignApp\DocusignLib\obj\Debug\ResolveAssemblyReference.cache
+c:\users\jay\documents\visual studio 2010\Projects\DocuSignApp\DocusignLib\obj\Debug\DocusignLib.dll
+c:\users\jay\documents\visual studio 2010\Projects\DocuSignApp\DocusignLib\obj\Debug\DocusignLib.pdb
+c:\users\jay\documents\visual studio 2010\Projects\DocuSignApp\DocusignLib\bin\Debug\DocusignEntity.dll
+c:\users\jay\documents\visual studio 2010\Projects\DocuSignApp\DocusignLib\bin\Debug\DocusignEntity.pdb
+E:\App\DocusignLib\bin\Debug\DocusignLib.dll
+E:\App\DocusignLib\bin\Debug\DocusignLib.pdb
+E:\App\DocusignLib\bin\Debug\DocusignEntity.dll
+E:\App\DocusignLib\bin\Debug\DocusignEntity.pdb
+E:\App\DocusignLib\obj\Debug\ResolveAssemblyReference.cache
+E:\App\DocusignLib\obj\Debug\DocusignLib.dll
+E:\App\DocusignLib\obj\Debug\DocusignLib.pdb
